@@ -20,3 +20,4 @@ It demonstrates the following features of threegui:
 * [sfillib](https://github.com/xerpi/sfillib)
 * [sftdlib](https://github.com/xerpi/sftdlib)
 * [threegui](https://github.com/uschmann/three)
+* [duktape](https://github.com/svaarala/duktape) to evaluate expressions
