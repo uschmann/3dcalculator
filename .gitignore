@@ -1,5 +1,6 @@
-*.3dsx
-*.elf
-*.smdh
-*.cia
 build
+send.sh
+.DS_Store
+.settings
+.cproject
+.project
